@@ -1,0 +1,23 @@
+Some Background on Polygon: 
+An ideal blockchain platform, Matic provides cheaper and lightning-fast transactions eliminating the complexities involved in the decentralized ecosystem. Matic has been created with the sole objective of a multifunctional and multipurpose advantage in all walks of life.
+
+Matic Network was brought to life by CEO Jaynti Kanani, Sandeep Nailwal, and Anurag Arjun in October 2017 after Vitalik Buterin and Joseph Poon released a whitepaper on the Plasma framework. It was observed by the duo that Ethereum was not fully scalable and hence they coined the benefit of using PoS side chains connected to the root chain. Here each and every individual chain deals with its independent blockchain with its consensus mechanism, block validators and it can create more “child chains” of its own.
+
+Content
+The data totally consists of 625 records(625 days) with 7 columns. The description of the features is given below
+
+No	    Columns	    Descriptions
+1	    Date	    Date of the MAT prices
+2	    Price	    Prices of MAT(dollars)
+3	    Open	    Opening price of MAT on the respective date(Dollars)
+4	    High	    Highest price of MAT on the respective date(Dollars)
+5	    Low	        Lowest price of MAT on the respective date(Dollars)
+6	    Vol.	    Volume of MAT on the respective date(Dollars).
+7	    Change%	    Percentage of Change in MAT prices on the respective date
+
+
+Acknowledgements
+The dataset was extracted from investing.com
+
+Inspiration
+Going by Wallet Investor’s Matic price prediction for 2020-2025, “Matic is an excellent long term instrument for investment. The price of Matic can go up from 0.0156 USD to 0.0236 USD in one year. Matic also shows a long-term earning potential is +51.05% in one year. The future price of Matic will surely be 0.0572 USD. Matic is set to have a bullish cycle and earn a profit for its investors. It is highly recommended as a virtual currency.”
